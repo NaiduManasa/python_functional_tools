@@ -13,7 +13,7 @@ In Python, key is a parameter used in functions like sorted(), min(), max(), and
 
 **Syntax:**
 
-sorted(iterable, key=lambda x: <expression>)
+function_name(iterable, key=lambda x: <expression>)
 
     iterable: The collection (like a list or tuple) you want to sort or process.
     key: A function that takes an element from the iterable and returns a value used for sorting/comparison.
